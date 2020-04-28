@@ -23,3 +23,13 @@ Navigate through the app using the tabs at the top. Further detail and instructi
 Who made it?
 
 This app was created by Damian Etchevest. Damian is a student of the program of Big Data Analtycs offered at St. Thomas University.
+
+What are the sources?
+
+HealthCare Data: https://nhqrnet.ahrq.gov
+Weather Data: https://www.usclimatedata.com
+Mortality: https://www.cdc.gov/
+Crime: https://api.usa.gov/crime/fbi/sapi/api/summarized/estimates/states/
+Police Data: https://api.usa.gov/crime/fbi/sapi/api/police-employment/states/"
+Income Data: https://www.bls.gov/oes/current/oes
+Rent Data: Zillow.com
