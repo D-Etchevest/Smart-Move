@@ -1,5 +1,5 @@
 # Smart-Move
-Make a smart decision about your next state
+Make a smart decision about your next home.
 
 What is this app?
 
@@ -33,3 +33,6 @@ Crime: https://api.usa.gov/crime/fbi/sapi/api/summarized/estimates/states/
 Police Data: https://api.usa.gov/crime/fbi/sapi/api/police-employment/states/"
 Income Data: https://www.bls.gov/oes/current/oes
 Rent Data: Zillow.com
+
+
+ 
