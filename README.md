@@ -34,5 +34,8 @@ Police Data: https://api.usa.gov/crime/fbi/sapi/api/police-employment/states/"
 Income Data: https://www.bls.gov/oes/current/oes
 Rent Data: Zillow.com
 
+How to access it? 
+
+Shiny app link: https://damianetchevest-apps.shinyapps.io/Smart-Move/?_ga=2.71696659.1886667990.1664055280-823400656.1664055280
 
  
